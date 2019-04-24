@@ -1,5 +1,6 @@
 # [Linear Gradient Generator](https://jayli3.github.io/linear-background-generator/ "linear-background-generator")
 `Live:` https://jayli3.github.io/linear-background-generator/
+
 This is a linear gradient background generator, pick the color you like, and copy the CSS code!
 
 You can select your own colors or use the `Random` button for the code to generate a random color for you.
