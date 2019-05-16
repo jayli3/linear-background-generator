@@ -1,16 +1,18 @@
 # [Linear Gradient Generator](https://jayli3n.github.io/linear-background-generator/ "linear-background-generator")
 `Live:` https://jayli3n.github.io/linear-background-generator/
+
 This is a linear gradient background generator, pick the color you like, and copy the CSS code!
 
 You can select your own colors or use the `Random` button for the code to generate a random color for you.
 
 4 direction options.
 
-##Code Snippets
+## Code Snippets
 Old school JS on top of the HTML and CSS. No 3rd party libraries, just simple DOM manipulations.
 
 [![linear-gradient-bg](https://github.com/jayli3n/linear-background-generator/blob/master/README_resources/jpg02.jpg?raw=true "linear-gradient-bg")](https://github.com/jayli3n/linear-background-generator/blob/master/README_resources/jpg02.jpg?raw=true "linear-gradient-bg")
 #####Javascript:
+
 ```javascript
 var color1 = document.querySelector("#color1");
 var color2 = document.querySelector("#color2");
@@ -66,7 +68,7 @@ bottom.addEventListener("click", changeBG);
 
 [![linear-gradient-bg-2](https://github.com/jayli3n/linear-background-generator/blob/master/README_resources/jpg01.jpg?raw=true "linear-gradient-bg-2")](https://github.com/jayli3n/linear-background-generator/blob/master/README_resources/jpg01.jpg?raw=true "linear-gradient-bg-2")
 
-#####HTML
+##### HTML
 ```html
 <!DOCTYPE html>
 <html>
