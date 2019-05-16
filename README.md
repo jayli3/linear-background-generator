@@ -11,7 +11,7 @@ You can select your own colors or use the `Random` button for the code to genera
 Old school JS on top of the HTML and CSS. No 3rd party libraries, just simple DOM manipulations.
 
 [![linear-gradient-bg](https://github.com/jayli3n/linear-background-generator/blob/master/README_resources/jpg02.jpg?raw=true "linear-gradient-bg")](https://github.com/jayli3n/linear-background-generator/blob/master/README_resources/jpg02.jpg?raw=true "linear-gradient-bg")
-#####Javascript:
+##### Javascript:
 
 ```javascript
 var color1 = document.querySelector("#color1");
